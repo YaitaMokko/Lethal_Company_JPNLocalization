@@ -38,5 +38,11 @@ Lethal Company日本語化
 ## **詳細**  
 中身はいたって単純で  
 BepInEx\config\jpに翻訳ファイルを詰め込んでるだけです。  
-``Sprint: [Shift]=走る：[Shift] ``みたいな感じ  
+```
+Sprint: [Shift]=走る：[Shift]  
+Open: [E]=開ける：[E]   
+Turn on/off : [E]=ON/OFF：[E]  
+Switch camera : [E]=カメラ切替：[E]  
+```
+みたいな感じ  
 それをXUnity.AutoTranslatorに読み込ませて日本語を表示しています。  
