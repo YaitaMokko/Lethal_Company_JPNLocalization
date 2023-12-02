@@ -1,0 +1,2 @@
+# Lethal_Company_JPNLocalization
+Lethal_Company日本語化
