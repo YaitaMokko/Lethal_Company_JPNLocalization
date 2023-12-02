@@ -13,6 +13,7 @@ Lethal Company日本語化
 　Lethal Company.exeと同じフォルダに入れてください。  
 3.Lethal_CompanyにMod APIを提供するLC APIをここからダウンロードしてください。  
 　[LC API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)  
+ 　2023/12/03時点で最新は 2018-LC_API-2.1.1.zipです。  
 4.ダウンロードした2018-LC_API-XXX.zipを展開し、  
 　BepInEx(フォルダ)/を Lethal Company.exeと同じフォルダに入れてください。  
 5.ゲームに適用するフォントをここからダウンロードしてください。  
