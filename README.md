@@ -33,4 +33,10 @@ Lethal Company日本語化
 ゲーム内の**アクセス端末**や**トレーニングマニュアル**は**英語**のままです。  
 無理矢理日本語表示にしているため見にくい場所が多々あります。誰か直し方教えて…  
 端末からコマンドを打つ方法などはこの方の日本語のマニュアルを参考にして下さい。  
-[Steamガイド Lethal Company 遊び方](https://steamcommunity.com/sharedfiles/filedetails/?id=3078124672)
+[Steamガイド Lethal Company 遊び方](https://steamcommunity.com/sharedfiles/filedetails/?id=3078124672)  
+
+## **詳細**  
+中身はいたって単純で  
+BepInEx\config\jpに翻訳ファイルを詰め込んでるだけです。  
+``Sprint: [Shift]=走る：[Shift] ``みたいな感じ  
+それをXUnity.AutoTranslatorに読み込ませて日本語を表示しています。  
