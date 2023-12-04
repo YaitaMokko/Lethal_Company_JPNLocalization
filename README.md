@@ -21,9 +21,14 @@ Lethal Company日本語化について
 6.ダウンロードしたTMP_Font_AssetBundles.zipを展開し、  
 　メインゲームフォルダ(\Lethal Company)の下に全部インストールしてください。  
 　arialuni_sdf_u2019/arialuni_sdf_u2019を Lethal Company.exeと同じフォルダに入れてください。  
-7.Mokko-JPNLocalization-XXX.zipをここからダウンロードしてください。  
+7.Lethal_Companyにターミナル編集機能を提供するNew Terminalをここからダウンロードしてください。  
+　[New Terminal](https://thunderstore.io/c/lethal-company/p/Aavild/NewTerminal/)  
+8.ダウンロードしたAavild-NewTerminal-xxx.zipを展開し、  
+　メインゲームフォルダ(\Lethal Company)の下に全部インストールしてください。  
+　BepInEx(フォルダ)/を Lethal Company.exeと同じフォルダに入れてください。  
+9.Mokko-JPNLocalization-XXX.zipをここからダウンロードしてください。  
 　[JPNLocalization](https://github.com/YaitaMokko/Lethal_Company_JPNLocalization/releases/latest)  
-8.ダウンロードしたファイルを展開し、メインゲームフォルダ(\Lethal Company)の下に全部インストールしてください。  
+10.ダウンロードしたファイルを展開し、メインゲームフォルダ(\Lethal Company)の下に全部インストールしてください。  
 　BepInEx(フォルダ)を Lethal Company.exeと同じフォルダに入れてください。  
 以上。  
 
@@ -51,3 +56,7 @@ Switch camera : [E]=カメラ切替：[E]
 ## **その他**  
 この翻訳ファイルについて権利は主張いたしません。配信等で使っていただいても問題ありません。  
 権利は主張しませんが、本家が日本語対応した場合はそちらに切り替えるようお願いいたします。  
+
+## **変更履歴**
+1.1.1 2023/12/05 NewTerminal Mod使用でターミナル端末の日本語化追加  
+1.1.0 2023/12/04 Release
